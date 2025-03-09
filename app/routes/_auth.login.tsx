@@ -81,10 +81,10 @@ export default function LogIn() {
           </div>
           <div className="text-xs">
             <p>
-              Email: <span className="font-medium">demo@example.com</span>
+              Email: <span className="font-medium">email@example.com</span>
             </p>
             <p>
-              Password: <span className="font-medium">demo123</span>
+              Password: <span className="font-medium">password123</span>
             </p>
           </div>
         </div>
